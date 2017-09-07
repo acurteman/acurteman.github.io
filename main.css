@@ -8,7 +8,7 @@ html, body {
 
 body {
   font-family: 'Lato', sans-serif;
-  background-image: /background.png;
+  background-image: url('www.cascadiadigitalworks.com/images/background.png');
   background-position: center top;
   background-size: cover;
   margin: 0;
